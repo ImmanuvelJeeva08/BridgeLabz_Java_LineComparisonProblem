@@ -1,10 +1,10 @@
 /**********************************************************************************************************************************************************************
  *
- *	Using Cartesian system to calculate the Length of the Line
+ *  Using Cartesian system to calculate the Length of the Line
  *  To Check the equality of the two lines
  *  I know one line is equal, greater or less than the other line
  *
- * 	@author Immanuvel Jeeva
+ *  @author Immanuvel Jeeva
  *  @Since 11-07-2021
  *
  *********************************************************************************************************************************************************************/
